@@ -1,0 +1,6 @@
+/* En tu archivo CSS personalizado */
+.my-custom-container {
+    max-width: 95%; /* Establece el ancho máximo que desees, por ejemplo, 90% */
+    margin-left: auto; /* Centra el contenedor horizontalmente */
+    margin-right: auto;
+  }
